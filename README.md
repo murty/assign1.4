@@ -1,5 +1,5 @@
 
-public static void main(string args[])
+public static void main(string[] args)
 {
 int x=5,y=10;
 float c;
